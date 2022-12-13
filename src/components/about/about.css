@@ -49,3 +49,12 @@ about_me-image {
     font-size: 1.4rem;
     margin-bottom: 1rem;
 }
+
+.about_card h5 {
+    font-size: 0.95rem;
+}
+
+.about_card small {
+    font-size: 0.7rem;
+    color: var(--color-light);
+}
