@@ -18,3 +18,13 @@ about_me-image {
     transform: rotate(10deg);
     transition: var(--transition);
 }
+
+.about_me-image:hover {
+    transform: rotate(0);
+}
+
+.about_cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+}
