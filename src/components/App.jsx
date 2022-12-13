@@ -6,3 +6,18 @@ import Experience from './components/experience/Experience'
 import Portfolio from './components/portfolio/Portfolio'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
+
+const App = () => {
+    return (
+      <>
+      <Header />
+      <Navbar />
+      <About />
+      <Experience />
+      <Services />
+      <Portfolio />
+      <Contact />
+      <Footer />
+      </>
+    )
+  }
