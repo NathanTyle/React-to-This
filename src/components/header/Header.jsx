@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css'
-import Cntctbtn from './Cntct-btn'
+import Cntctbtn from './Cntctbtn'
 import Me from '../../assets/Me.jpg'
 import HeaderSocial from './HeaderSocials'
 
