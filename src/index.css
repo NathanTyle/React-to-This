@@ -10,3 +10,12 @@
     text-decoration: none;
 }
 
+:root {
+    --color-bg: #003f2f;
+    --color-bg-variant: #327066;
+    --color-primary: #a3dfd5;
+    --color-primary-variant: rgba(77, 255, 225, 0.4);
+    --color-white: #fff;
+    --color-light: rgba(255, 255, 255, 0.795);
+
+}
