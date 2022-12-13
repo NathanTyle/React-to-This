@@ -58,3 +58,8 @@ about_me-image {
     font-size: 0.7rem;
     color: var(--color-light);
 }
+
+.about_content p {
+    margin: 2rem 0 2.6rem;
+    color: var(--color-light);
+}
