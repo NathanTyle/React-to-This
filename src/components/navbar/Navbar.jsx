@@ -1,5 +1,11 @@
 import React from 'react'
 import './navbar.css'
+import {FaHome} from 'react-icons/fa'
+import {SiAboutdotme} from 'react-icons/si'
+import {BiCodeAlt} from 'react-icons/bi'
+import {FaServicestack} from 'react-icons/fa'
+import {SiMinutemailer} from 'react-icons/si'
+import {useState} from 'react'
 
 const Navbar = () => {
     const [activeNav, setActiveNav] = useState('#')
