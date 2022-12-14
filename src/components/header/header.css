@@ -29,6 +29,9 @@ header{
     bottom: 3rem;
 }
 
+.header_socials-icon {
+    font-size: 1.5rem;
+}
 /* Me */
 .me {
     background: linear-gradient(var(--color-primary), transparent);
