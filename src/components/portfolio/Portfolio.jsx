@@ -1,5 +1,8 @@
 import React from 'react'
 import './portfolio.css'
+import IMG1 from '../../assets/Project-1.PNG'
+import IMG2 from '../../assets/LTM.PNG'
+import IMG3 from '../../assets/escent.PNG'
 
 const Portfolio = () => {
     return (
@@ -33,5 +36,5 @@ const Portfolio = () => {
       </section>
     )
   }
-  
+
 export default Portfolio
