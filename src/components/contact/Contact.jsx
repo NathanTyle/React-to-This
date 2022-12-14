@@ -1,5 +1,8 @@
 import React from 'react'
 import './contact.css'
+import {AiTwotoneMail} from 'react-icons/ai'
+import {BsMessenger} from 'react-icons/bs'
+import {AiTwotonePhone} from 'react-icons/ai'
 
 const Contact = () => {
     return (
