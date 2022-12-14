@@ -25,3 +25,9 @@
 .portfolio_item h3 {
     margin: 1.2rem 0 2rem;
 }
+
+.portfolio_item-cntctbtn {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
