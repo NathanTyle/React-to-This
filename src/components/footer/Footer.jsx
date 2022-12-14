@@ -1,5 +1,7 @@
 import React from 'react'
 import './footer.css'
+import {GrFacebook} from 'react-icons/gr'
+import {BsInstagram} from 'react-icons/bs'
 
 const Footer = () => {
     return (
