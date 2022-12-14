@@ -16,8 +16,6 @@
 .about_me-image {
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
-    transition: var(--transition);
 }
 
 .about_me-image:hover {
@@ -26,15 +24,15 @@
 
 .about_cards {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(1, 2fr);
     gap: 1.5rem;
 }
 
 .about_card {
     background: var(--color-bg-variant);
-    border: 1px solid transparent;
-    border-radius: 1rem;
-    padding: 2rem;
+    border: 3px solid transparent;
+    border-radius: 2rem;
+    padding: 1rem;
     text-align: center;
     transition: var(--transition);
 }
@@ -42,21 +40,21 @@
 .about_card:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
-    cursor: default;
+    cursor: pointer;
 }
 
 .about_icon {
     color: var(--color-primary);
-    font-size: 1.4rem;
+    font-size: 2rem;
     margin-bottom: 1rem;
 }
 
 .about_card h5 {
-    font-size: 0.95rem;
+    font-size: 1.25rem;
 }
 
 .about_card small {
-    font-size: 0.7rem;
+    font-size: 0.95rem;
     color: var(--color-light);
 }
 

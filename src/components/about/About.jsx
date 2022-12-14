@@ -47,10 +47,8 @@ const About = () => {
               </article>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora est nihil, earum eveniet deserunt cumque nam. Nemo nobis, debitis, aliquid dolore voluptatum aspernatur incidunt, placeat fugit fugiat obcaecati laudantium eligendi?
+              I'm an entry level developer that is straight out of UT Austin's Full time Full Stack Bootcamp, ready to stretch my legs and strut my stuff.
             </p>
-  
-            <a href="#contact" className='btn btn-primary'>Got time to chat?</a>
           </div>
         </div>
       </section>
