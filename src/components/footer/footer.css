@@ -5,3 +5,14 @@ footer {
     font-size: 0.9rem;
     margin-top: 7rem;
 }
+
+footer a {
+    color: var(--color-bg);
+}
+
+.footer_logo {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    display: inline-block;
+}
